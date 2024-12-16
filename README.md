@@ -42,13 +42,18 @@ A **Chummy** foi desenvolvida com tecnologias modernas e estável para suportar 
 - Integração com API de pagamento para PIX e cartões de crédito.
 - Integração com serviço de SMS para validar número de telefone dos usuários
 
-## Alguns indicadores até o momento:
+## Alguns indicadores
 
 - Mais de 8,5 mil usuários
 - Mais de 6,5 mil posts
 - Mais de 4 mil mensagens trocadas
 - Mais de 1,4 mil stories
 - Mais de 1,6 mil comentários em posts
+
+## Informações importantes
+
+- A **Chummy** não é só um projeto, mas sim uma empresa que tem um CNPJ em situação regular.
+- A marca está em processo de registro no INPI.
 
 ## Oportunidade de Negócio
 
