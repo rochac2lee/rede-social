@@ -1,12 +1,13 @@
 # [Rede Social **Chummy**](chummy.com.br) - Projeto a venda!
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1b5c0847-bdfd-4259-9baf-bbe86bf039ca" width="400" alt="Chummy">
+</p>
+
 ## Sobre a Chummy
 
 A **Chummy** é uma inovadora rede social brasileira voltada para criadores de conteúdo adulto. Lançada em 2023, a plataforma foi projetada para oferecer uma experiência intuitiva, segura e altamente lucrativa, tanto para os criadores quanto para os usuários. Com recursos modernos e flexíveis, a **Chummy** se destaca como uma solução completa para a monetização de conteúdos exclusivos.
-
 Se você é um investidor ou empreendedor interessado no crescente mercado de redes sociais e monetização de conteúdo, esta é a sua oportunidade de adquirir uma plataforma sólida e com grande potencial de crescimento.
-
----
 
 ## Recursos da Plataforma
 
@@ -31,23 +32,27 @@ Se você é um investidor ou empreendedor interessado no crescente mercado de re
 - Pagamentos rápidos e flexíveis, processados em 1 a 3 dias úteis via PIX ou conta bancária.
 - Sistema seguro e confiável de processamento financeiro.
 
----
-
 ## Tecnologia e Arquitetura
 
 A **Chummy** foi desenvolvida com tecnologias modernas e estável para suportar um alto volume de usuários e transações. A plataforma inclui:
 
+- Infraestrutura em Nuvem (AWS)
 - Backend escalável e seguro.
 - Frontend responsivo e otimizado para dispositivos móveis.
-- Integração com APIs de pagamento para PIX e cartões de crédito.
+- Integração com API de pagamento para PIX e cartões de crédito.
+- Integração com serviço de SMS para validar número de telefone dos usuários
 
----
+## Alguns indicadores até o momento:
+
+- Mais de 8,5 mil usuários
+- Mais de 6,5 mil posts
+- Mais de 4 mil mensagens trocadas
+- Mais de 1,4 mil stories
+- Mais de 1,6 mil comentários em posts
 
 ## Oportunidade de Negócio
 
 Esta é uma excelente oportunidade para adquirir uma rede social completa e funcional com grande potencial de crescimento no mercado. A plataforma já está operacional e pronta para ser escalada.
-
----
 
 ## Contato para Negociação
 
